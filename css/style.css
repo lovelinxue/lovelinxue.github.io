@@ -2139,6 +2139,10 @@ a {
   background: url("../img/google.png") center no-repeat #f00;
   border: 1px solid #f00;
 }
+#header .header-nav .social a.jianshu {
+  background: url("../img/jianshu.png") center no-repeat #f66;
+  border: 1px solid #f66;
+}
 #header .header-nav .social a.twitter {
   background: url("../img/twitter.png") center no-repeat #1ab2e8;
   border: 1px solid #1ab2e8;
