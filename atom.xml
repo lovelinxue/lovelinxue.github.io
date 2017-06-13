@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>林海雪原</title>
+  <subtitle>嘿,现在就去写代码吧,把那些Bug都改完    --    蒙其·d·路飞</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://lovelinxue.com/"/>
+  <updated>2017-05-29T01:43:32.000Z</updated>
+  <id>http://lovelinxue.com/</id>
+  
+  <author>
+    <name>林海雪原</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端知识体系</title>
+    <link href="http://lovelinxue.com/2017/05/29/%E6%91%98%E8%A6%81%E6%B5%8B%E8%AF%95/"/>
+    <id>http://lovelinxue.com/2017/05/29/摘要测试/</id>
+    <published>2017-05-29T01:06:05.000Z</published>
+    <updated>2017-05-29T01:43:32.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>　　** 前端知识体系：</p>
+<p>　　- 呜呜呜<br><a id="more"></a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;　　** 前端知识体系：&lt;/p&gt;
+&lt;p&gt;　　- 呜呜呜&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>开博第一篇</title>
+    <link href="http://lovelinxue.com/2017/05/29/%E5%BC%80%E5%8D%9A%E7%AC%AC%E4%B8%80%E7%AF%87/"/>
+    <id>http://lovelinxue.com/2017/05/29/开博第一篇/</id>
+    <published>2017-05-28T22:49:46.000Z</published>
+    <updated>2017-05-31T03:16:39.000Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://lovelinxue.com/2017/05/28/hello-world/"/>
+    <id>http://lovelinxue.com/2017/05/28/hello-world/</id>
+    <published>2017-05-28T14:47:22.000Z</published>
+    <updated>2017-05-29T01:18:27.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo server</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="external">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo generate</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="external">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo deploy</div></pre></td></tr></table></figure>
+<p>More info: <a href="https://hexo.io/docs/deployment.html" target="_blank" rel="external">Deployment</a></p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>前端知识体系</title>
+    <link href="http://lovelinxue.com/2016/01/16/%E6%9E%97%E6%B5%B7%E9%9B%AA%E5%8E%9F/"/>
+    <id>http://lovelinxue.com/2016/01/16/林海雪原/</id>
+    <published>2016-01-16T13:58:41.000Z</published>
+    <updated>2017-05-31T03:40:29.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性<br><a id="more"></a></p>
+<p>##RunTime运行时</p>
+<ul>
+<li><strong>应用场景:</strong></li>
+<li>字典转模型</li>
+<li>关联对象</li>
+<li>动态获取分类的属性</li>
+<li>仿SDWebimage</li>
+<li>最多出现在分类中</li>
+<li>给分类动态的添加属性</li>
+<li>做到更好的解耦(开发框架时解耦)</li>
+<li>简化使用</li>
+<li>交换方法,在无法修改系统或者第三方框架的时候.</li>
+<li>利用交换方法,先执行自己的方法.</li>
+<li>然后再执行系统或者第三方的方法.</li>
+<li><p><code>黑魔法</code>对系统,框架有很强的依赖性.</p>
+</li>
+<li><p><strong>动态获取分类的属性(字典转模型的时候使用)步骤:</strong></p>
+<blockquote>
+<p><code>class_copyPropertyList</code>(要获取的类, 类属性的个数指针)类的属性<br><code>class_copyIvarList</code>(, )获取成员变量<br><code>class_copyMethodList</code>(, )获取类的方法<br><code>class_copyProtocolList</code>(, )获取类的协议</p>
+<blockquote>
+<p><strong>返回值:</strong>可以option + click 看方法详解里有 <code>objc_property_t * class_copyPropertyList</code><br>关于是否需要释放:retain/create/copy 需要release.如果不确定可以option + click 看方法详解</p>
+</blockquote>
+</blockquote>
+</li>
+<li><p>首先建立NSObject的分类</p>
+</li>
+<li>使用<strong>class_copyPropertyList</strong>获取类属性的数组</li>
+<li>遍历数组,从中取出每个元素使用<strong>property_getName</strong>获取到属性名称.</li>
+<li>将获取到的属性转换成输出字符串并将数据存入数组.</li>
+<li><code>free()</code>释放运行时数组</li>
+</ul>
+<figure class="highlight swift"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div></pre></td><td class="code"><pre><div class="line">#<span class="keyword">import</span> "NSObject+time.h"</div><div class="line"></div><div class="line">@implementation <span class="type">NSObject</span> (time)</div><div class="line"></div><div class="line">+ (<span class="type">NSArray</span> *)a_getClassAttributeArr</div><div class="line">&#123;</div><div class="line"><span class="comment">//创建返回的数组</span></div><div class="line"><span class="type">NSMutableArray</span> *arrM = [<span class="type">NSMutableArray</span> new];</div><div class="line"><span class="comment">//创建属性指针</span></div><div class="line">unsigned int coun = <span class="number">0</span>;</div><div class="line"><span class="comment">//调用运行时的方法,取得类的属性列表</span></div><div class="line">objc_property_t *classAttribute = class_copyPropertyList([<span class="keyword">self</span> <span class="class"><span class="keyword">class</span>], &amp;<span class="title">coun</span>);</span></div><div class="line"></div><div class="line"><span class="title">for</span> (<span class="title">unsigned</span> <span class="title">int</span> <span class="title">i</span> = 0; <span class="title">i</span> &lt; <span class="title">coun</span>; <span class="title">i</span>++)</div><div class="line">&#123;</div><div class="line"><span class="comment">//从数组中取出属性</span></div><div class="line">objc_property_t attribute = classAttribute[i];</div><div class="line"><span class="comment">//从数据中获取到属性名称</span></div><div class="line">const char *attributeName = property_getName(attribute);</div><div class="line"><span class="comment">//将获取到的属性转换成输出字符串</span></div><div class="line"><span class="type">NSString</span> *attributeClassName = [<span class="type">NSString</span> stringWithCString:attributeName encoding:<span class="type">NSUTF8StringEncoding</span>];</div><div class="line"><span class="comment">//将数据存入数组</span></div><div class="line">[arrM addObject:attributeClassName];</div><div class="line">&#125;</div><div class="line"><span class="comment">//释放</span></div><div class="line">free(classAttribute);</div><div class="line"><span class="keyword">return</span> arrM;</div><div class="line">&#125;</div><div class="line"></div><div class="line">@end</div></pre></td></tr></table></figure>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性&lt;br&gt;
+    
+    </summary>
+    
+      <category term="HTML 书籍1" scheme="http://lovelinxue.com/categories/HTML-%E4%B9%A6%E7%B1%8D1/"/>
+    
+      <category term="HTML 书籍2" scheme="http://lovelinxue.com/categories/HTML-%E4%B9%A6%E7%B1%8D1/HTML-%E4%B9%A6%E7%B1%8D2/"/>
+    
+    
+      <category term="HTML 标签 2" scheme="http://lovelinxue.com/tags/HTML-%E6%A0%87%E7%AD%BE-2/"/>
+    
+      <category term="HTML 标签3" scheme="http://lovelinxue.com/tags/HTML-%E6%A0%87%E7%AD%BE3/"/>
+    
+  </entry>
+  
+</feed>
