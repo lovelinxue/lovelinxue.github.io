@@ -171,49 +171,49 @@
   </entry>
   
   <entry>
-    <title>林海雪原</title>
+    <title>偶然的一次想起</title>
     <link href="http://lovelinxue.com/2016/10/11/%E6%9E%97%E6%B5%B7%E9%9B%AA%E5%8E%9F/"/>
     <id>http://lovelinxue.com/2016/10/11/林海雪原/</id>
     <published>2016-10-11T13:58:41.000Z</published>
-    <updated>2017-06-25T04:30:05.000Z</updated>
+    <updated>2017-07-22T04:04:25.000Z</updated>
     
-    <content type="html"><![CDATA[<p>动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性<br><a id="more"></a></p>
-<h2 id="RunTime运行时"><a href="#RunTime运行时" class="headerlink" title="RunTime运行时"></a>RunTime运行时</h2><ul>
-<li><strong>应用场景:</strong></li>
-<li>字典转模型</li>
-<li>关联对象</li>
-<li>动态获取分类的属性</li>
-<li>仿SDWebimage</li>
-<li>最多出现在分类中</li>
-<li>给分类动态的添加属性</li>
-<li>做到更好的解耦(开发框架时解耦)</li>
-<li>简化使用</li>
-<li>交换方法,在无法修改系统或者第三方框架的时候.</li>
-<li>利用交换方法,先执行自己的方法.</li>
-<li>然后再执行系统或者第三方的方法.</li>
-<li><p><code>黑魔法</code>对系统,框架有很强的依赖性.</p>
-</li>
-<li><p><strong>动态获取分类的属性(字典转模型的时候使用)步骤:</strong></p>
+    <content type="html"><![CDATA[<p>回首十年冬，当时与谁同？初始相知心已动。夜深人静难舍入梦中。<br><a id="more"></a></p>
+<p>##回首十年冬，当时与谁同？初始相知心已动。夜深人静难舍入梦中。</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/318457-c50261c41bab94e6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片来自网络"></p>
+<p>在老家翻东西,偶然翻到了小时候买的四驱车.便想起来小学的时候身边的同学几乎都有一辆自己四驱赛车,看着别人有,那时我就想(我也要为我自己买一辆,不但要买,而且还要买高配的.)</p>
 <blockquote>
-<p><code>class_copyPropertyList</code>(要获取的类, 类属性的个数指针)类的属性<br><code>class_copyIvarList</code>(, )获取成员变量<br><code>class_copyMethodList</code>(, )获取类的方法<br><code>class_copyProtocolList</code>(, )获取类的协议</p>
+<p>有些记忆就像这些被埋藏的物品一样.他们被无意的埋藏在深处,也许某事某刻因为某物而想起某些事.</p>
+</blockquote>
+<p>于是在放学的路上跑到学校旁的文具店趴在玻璃窗上很认真的观察对比展架上的每一辆赛车,最终找到了一辆能让我满意的赛车(现在想想,那感觉可能是我对”一见钟情”的第一次启蒙的理解了吧).</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/318457-2f89692739beaef2.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片来自网络"><br>它外观精致,内部奢华,配置高端.(嘿,那是我第一次遇见你呢)看到他就有一种兴奋感油然而生(就好像我已经拥有了他一样.现在想想感觉那时候的幸福好简单.)</p>
 <blockquote>
-<p><strong>返回值:</strong>可以option + click 看方法详解里有 <code>objc_property_t * class_copyPropertyList</code><br>关于是否需要释放:retain/create/copy 需要release.如果不确定可以option + click 看方法详解</p>
+<p>如果你是下午四点钟来的,从三点钟开始,我就开始感觉到幸福的滋味了.越接近四点钟,我越觉得幸福.    —出自《小王子》</p>
 </blockquote>
+<p>于是为了得到它,我便把自己的零花钱全都攒下来,甚至和伙伴一起去工地里”淘金”.</p>
+<p>那时候为了得到它,自己不辞辛苦的做任何能攒钱的事情,突然觉得小时候的自己为了目标.很是努力的去奋斗.现在的我不知道为什么似乎已经麻痹了对自己的一切.</p>
+<p>最终自己如愿以偿的得到了它.直到现在还清晰的记得老板把赛车递到我手上那一瞬间的开心,幸福以及更多的是激动.(嘿,那时我第一次拥有你)</p>
+<p><img src="http://upload-images.jianshu.io/upload_images/318457-1b7124425fb04bb6.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片来自网络"></p>
+<p>起初有了它之后,我也不跟伙伴们比赛,就那样拿在手里看着它,给他换零件.马达嗡嗡作响,但是就是捏在手里不愿放手让他跑.小心翼翼的呵护着它.但是没过2天,便放手让他在赛道里疯狂起来.于是再往后往后往后,随着时间的推移年龄的成长,对它的兴趣和关心也逐渐的减少….再后来.甚至遗忘了我自认为记忆深刻的那几个第一次.但我相信,人的一生中必定会有让你忘不了的事情.对,一定会有的.</p>
+<blockquote>
+<p>突然想起来白居易《偶作寄朗之》中的一句诗：<br><strong>老来多健忘，唯不忘相思。</strong></p>
 </blockquote>
-</li>
-<li><p>首先建立NSObject的分类</p>
-</li>
-<li>使用<strong>class_copyPropertyList</strong>获取类属性的数组</li>
-<li>遍历数组,从中取出每个元素使用<strong>property_getName</strong>获取到属性名称.</li>
-<li>将获取到的属性转换成输出字符串并将数据存入数组.</li>
-<li><code>free()</code>释放运行时数组</li>
-</ul>
-<figure class="highlight swift"><table><tr><td class="gutter"><pre><div class="line">1</div><div class="line">2</div><div class="line">3</div><div class="line">4</div><div class="line">5</div><div class="line">6</div><div class="line">7</div><div class="line">8</div><div class="line">9</div><div class="line">10</div><div class="line">11</div><div class="line">12</div><div class="line">13</div><div class="line">14</div><div class="line">15</div><div class="line">16</div><div class="line">17</div><div class="line">18</div><div class="line">19</div><div class="line">20</div><div class="line">21</div><div class="line">22</div><div class="line">23</div><div class="line">24</div><div class="line">25</div><div class="line">26</div><div class="line">27</div><div class="line">28</div><div class="line">29</div><div class="line">30</div></pre></td><td class="code"><pre><div class="line">#<span class="keyword">import</span> "NSObject+time.h"</div><div class="line"></div><div class="line">@implementation <span class="type">NSObject</span> (time)</div><div class="line"></div><div class="line">+ (<span class="type">NSArray</span> *)a_getClassAttributeArr</div><div class="line">&#123;</div><div class="line"><span class="comment">//创建返回的数组</span></div><div class="line"><span class="type">NSMutableArray</span> *arrM = [<span class="type">NSMutableArray</span> new];</div><div class="line"><span class="comment">//创建属性指针</span></div><div class="line">unsigned int coun = <span class="number">0</span>;</div><div class="line"><span class="comment">//调用运行时的方法,取得类的属性列表</span></div><div class="line">objc_property_t *classAttribute = class_copyPropertyList([<span class="keyword">self</span> <span class="class"><span class="keyword">class</span>], &amp;<span class="title">coun</span>);</span></div><div class="line"></div><div class="line"><span class="title">for</span> (<span class="title">unsigned</span> <span class="title">int</span> <span class="title">i</span> = 0; <span class="title">i</span> &lt; <span class="title">coun</span>; <span class="title">i</span>++)</div><div class="line">&#123;</div><div class="line"><span class="comment">//从数组中取出属性</span></div><div class="line">objc_property_t attribute = classAttribute[i];</div><div class="line"><span class="comment">//从数据中获取到属性名称</span></div><div class="line">const char *attributeName = property_getName(attribute);</div><div class="line"><span class="comment">//将获取到的属性转换成输出字符串</span></div><div class="line"><span class="type">NSString</span> *attributeClassName = [<span class="type">NSString</span> stringWithCString:attributeName encoding:<span class="type">NSUTF8StringEncoding</span>];</div><div class="line"><span class="comment">//将数据存入数组</span></div><div class="line">[arrM addObject:attributeClassName];</div><div class="line">&#125;</div><div class="line"><span class="comment">//释放</span></div><div class="line">free(classAttribute);</div><div class="line"><span class="keyword">return</span> arrM;</div><div class="line">&#125;</div><div class="line"></div><div class="line">@end</div></pre></td></tr></table></figure>
+<p>现在再次看到布满了灰尘埋藏在箱底的它.突然唤起了这一段童年的记忆.想起了那时候的人和事.无非就是在内心中激起一层涟漪再回归于平静.早已没有了最初得到它的兴奋和激动.于是叹一口气,便把它又放了回去.她有时会说我矫情,但也许这是我的天性.写一些忧伤的文字，记录著一些琐碎的生活。十指相握给自己取暖，只能维持的瞬间。谁说，懂得放开，心胸便会坦然。我微笑，是不是真的懂得成全。</p>
+<blockquote>
+<p>有时候会自我安慰到:念念不忘,必有回响.似乎习惯了等待，单纯的以为等待的就会到来。</p>
+</blockquote>
+<p><img src="http://upload-images.jianshu.io/upload_images/318457-d03e11412dbe1865.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240" alt="图片来自网络"></p>
+<p>突然觉得时间就好像是衡量一个人综合价值的标尺一样.从当前的时间点看过去.是否能清晰的看到自己都经历了什么.得到了什么,失去了什么.那些对你内心刻下深刻记忆的人和事,以后想起又能怎样呢?即便是流泪，也算是一种纪念。就算是流泪，也回不到童年。…..感情这种事情又该怎么去衡量呢?怎么样去定目标呢?</p>
+<p>有时候真的很钦佩古代的那些诗人，短短的几句话便能把自己的感受表达的淋漓尽致。也庆幸自己能读到他们的作品。最后想着就用这首诗来结束吧。</p>
+<blockquote>
+<p>《题都城南庄》—    崔护<br>去年今日此门中，人面桃花相映红。<br>人面不知何处去，桃花依旧笑春风。</p>
+</blockquote>
+<hr>
+<p>这不是什么鸡汤，仅仅是为了记录自己在这个雷雨交加夜晚突发的感想。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性动态获取分类的属性&lt;br&gt;
+      &lt;p&gt;回首十年冬，当时与谁同？初始相知心已动。夜深人静难舍入梦中。&lt;br&gt;
     
     </summary>
     
